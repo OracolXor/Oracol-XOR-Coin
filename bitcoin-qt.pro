@@ -6,11 +6,11 @@ INCLUDEPATH += src src/json src/qt
 QT += core gui network
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE 
-#DEFINES += -DMINIUPNP_STATICLIB
-#--without miniupnpc 
+
+
 CONFIG += no_include_pwd
 CONFIG += thread
-CONGIG += static
+
 
 
 # for boost 1.37, add -mt to the boost libraries
