@@ -1187,7 +1187,8 @@ static const char *strMainNetDNSSeed[][2] = {
 };
 
 static const char *strTestNetDNSSeed[][2] = {
-    {"oracoltools.testnet.com", "testnet-seed.oracoltools.com"},
+    {"ec2-35-182-250-76.ca-central-1.compute.amazonaws.com", "35.182.250.76"},
+    //{"oracoltools.testnet.com", "testnet-seed.oracoltools.com"},
    // {"xurious.com", "testnet-seed.ltc.xurious.com"},
     //{"wemine-testnet.com", "dnsseed.wemine-testnet.com"},
     {NULL, NULL}
