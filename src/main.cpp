@@ -1102,7 +1102,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
  nSubsidy = 250 * COIN;
  }            
     // Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 840000); // Oracol: 840k blocks in ~4 years
+    nSubsidy >>= (nHeight / 840000); // Oracol: 840k blocks in 1 Year 2 minutes and 30 seconds
 
     return nSubsidy + nFees;
 }
