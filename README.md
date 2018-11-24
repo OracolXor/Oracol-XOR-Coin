@@ -5,7 +5,7 @@ https://oracol.mobi
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2016-2017 Oracol Developers
+Copyright (c) 2016-2019 Oracol Developers
 
 What is Oracol?
 ----------------
