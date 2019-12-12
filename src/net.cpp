@@ -1177,7 +1177,11 @@ static const char *strMainNetDNSSeed[][2] = {
     {"ec2-35-182-104-47.ca-central-1.compute.amazonaws.com", "35.182.104.47"},
     {"ec2-35-182-127-229.ca-central-1.compute.amazonaws.com", "35.182.127.229"},
     {"ec2-35-182-189-172.ca-central-1.compute.amazonaws.com", "35.182.189.172"},
-    //{"dnsseed.oracol.mobi", "oracoltools.oracol.mobi"},
+    {"primahostwindows1vps", "85.186.59.58"},
+    {"primahostwindows2vps", "85.186.59.59"},
+    {"primahostwindows3vps", "85.186.59.60"},
+    {"primahostwindows4vps", "85.186.59.61"},
+,
     //{"dnsseed.oracol.mobi", "oracol1tools.oracol.mobi"},
     //{"oracol.mobi", "35.182.189.172"},
     //{"ec2-35-182-145-222.ca-central-1.compute.amazonaws.com", "35.182.145.222"},
@@ -1188,6 +1192,7 @@ static const char *strMainNetDNSSeed[][2] = {
 
 static const char *strTestNetDNSSeed[][2] = {
     {"ec2-35-182-250-76.ca-central-1.compute.amazonaws.com", "35.182.250.76"},
+    {"primahostwindows5vps", "85.186.59.62"},
     //{"oracoltools.testnet.com", "testnet-seed.oracoltools.com"},
    // {"xurious.com", "testnet-seed.ltc.xurious.com"},
     //{"wemine-testnet.com", "dnsseed.wemine-testnet.com"},
