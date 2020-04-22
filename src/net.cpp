@@ -1181,7 +1181,6 @@ static const char *strMainNetDNSSeed[][2] = {
     {"primahostwindows2vps", "85.186.59.59"},
     {"primahostwindows3vps", "85.186.59.60"},
     {"primahostwindows4vps", "85.186.59.61"},
-,
     //{"dnsseed.oracol.mobi", "oracol1tools.oracol.mobi"},
     //{"oracol.mobi", "35.182.189.172"},
     //{"ec2-35-182-145-222.ca-central-1.compute.amazonaws.com", "35.182.145.222"},
